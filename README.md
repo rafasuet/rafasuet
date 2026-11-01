@@ -15,7 +15,6 @@ Estudante de **Sistemas de Informação na Unicamp** (FT, Limeira), com foco em 
 | **[Assistente da loja](https://github.com/rafasuet/assistente-loja)** | IA que responde na hora os stories de uma loja de cosméticos, sem inventar preço. [▶ Demo](https://assistente-loja.vercel.app) | Next.js · TypeScript · Claude API · Vitest |
 | **[Easy College](https://github.com/rafasuet/easy-college)** | Skill para Claude Code e Codex que lê os planos de ensino em PDF e gera um painel HTML offline com calendário, rotina de estudos, notas e faltas. | TypeScript · JavaScript · Node.js · GitHub Actions |
 | **[Site do CDI](https://github.com/rafasuet/site-cdi)** | Site do centro acadêmico, com circular em tempo real, cardápio do RU, professores e guia para ingressantes. | React 19 · Vite · Tailwind CSS |
-| **[Acerte a Toupeira](https://github.com/rafasuet/jogo-da-toupeira)** | Whac-a-Mole web com ranking e histórico, com arquitetura em camadas e sem frameworks. | JavaScript · PHP · MySQL |
 
 ## 🛠️ Tecnologias
 
